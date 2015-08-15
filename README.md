@@ -2,9 +2,7 @@
 
 This C program was an entry in [a contest organized by LinkedList NYC]
 (http://www.linkedlistnyc.org/archive/issue_083.html) for the most
-creative way to print a message.&nbsp; This program won the contest,
-and the organizers delivered the prize (ice cream) to my
-[NYC friends](https://twitter.com/yaroslav_f).
+creative way to print a message.
 
 ```C
 #ifdef _ 
@@ -43,8 +41,12 @@ int main() {
 #endif
 ```
 
-You can read [the analysis of how the program works here]
+This program won the contest, and the organizers delivered
+the prize (ice cream) to my [NYC friends](https://twitter.com/yaroslav_f).
+
+You can read [the analysis of how the program works]
 (http://www.linkedlistnyc.org/archive/issue_084.html).&nbsp;
 It is slightly incomplete though: can you determine the maximum
 length of the message this "library" supports?&nbsp;  Hint: it is
 a function of the number of letters in the Latin alphabet.
+
