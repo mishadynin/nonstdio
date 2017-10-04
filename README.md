@@ -44,8 +44,7 @@ int main() {
 This program won the contest, and the organizers delivered
 the prize (ice cream) to my [NYC friends](https://twitter.com/yaroslav_f).
 
-You can read [the analysis of how the program works]
-(http://www.linkedlistnyc.org/archive/issue_084.html).&nbsp;
+You can read [the analysis of how the program works](http://www.linkedlistnyc.org/archive/issue_084.html).&nbsp;
 The analysis is slightly incomplete though: can you determine the maximum
 length of the message this "library" supports?&nbsp;  (Hint: it is
 a function of the number of letters in the Latin alphabet.)
